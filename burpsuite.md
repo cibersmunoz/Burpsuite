@@ -15,14 +15,7 @@ Lo más importante que hemos hecho es un método para adivinar usuarios y contra
 - Si conocemos el usuario y la contraseña, no es necesario realizar un ataque.
 - Damos clic en **Sniper**, seleccionamos la contraseña y cargamos en el **Payload** el diccionario. Seleccionamos solo la contraseña y añadimos un diccionario para que pruebe todas las contraseñas con un usuario.
 
-![Configuración de Sniper](image-2.png)
-
-![Carga del diccionario](image-3.png)
-
 Si queremos probar tanto el usuario como la contraseña a la vez, podemos hacerlo de la siguiente manera:
-
-![Probar usuario y contraseña](image-4.png)
 
 En cada posición del payload, colocamos un diccionario: uno para usuarios y otro para contraseñas.
 
-![Payload con diccionarios](image-5.png)
